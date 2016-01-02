@@ -1,7 +1,7 @@
 <definition orientation="dyyy" version="0.5" type="element" link_type="simple" hotspot_x="5" hotspot_y="5" width="90" height="210">
     <uuid uuid="{7b57192a-9e73-49c8-8606-ce0219d59fa1}"/>
     <names>
-        <name lang="fr">30mA Legrand</name>
+        <name lang="fr">30mA 40A Legrand</name>
     </names>
     <informations>Alexandre DIS</informations>
     <description>
