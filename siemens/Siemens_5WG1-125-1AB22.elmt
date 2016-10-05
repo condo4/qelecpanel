@@ -1,13 +1,11 @@
 <definition orientation="dyyy" version="0.5" type="element" link_type="simple" hotspot_x="5" hotspot_y="5" width="170" height="210">
     <uuid uuid="{5513674c-abbd-44f9-8e43-47efbb4047ba}"/>
     <names>
-        <name lang="fr">5WG1125-1AB22</name>
+        <name lang="fr">5WG1-125-1AB22 - Power Supply 640mA</name>
     </names>
     <informations>Alexandre Dis&#xd;
 </informations>
     <description>
-        <text x="10" text="5WG1125-1AB22" y="75" size="3"/>
-        <text x="9" text="Power Supply 640mA" y="77" size="3"/>
         <rect x="0" antialias="false" width="160" height="200" style="line-style:normal;line-weight:thin;filling:white;color:black" y="0"/>
         <text x="132" text="Reset" y="66" size="3"/>
         <ellipse x="113" antialias="false" width="6" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" y="40"/>
@@ -79,7 +77,7 @@
         <rect x="121" antialias="false" width="6" height="4.5" style="line-style:normal;line-weight:normal;filling:white;color:white" y="40"/>
         <ellipse x="49" antialias="false" width="6" height="10" style="line-style:normal;line-weight:thin;filling:none;color:black" y="150"/>
         <rect x="49" antialias="false" width="6" height="4.5" style="line-style:normal;line-weight:normal;filling:white;color:white" y="156"/>
-        <text x="10" text="5WG1125-1AB22" y="71" size="3"/>
+        <text x="10" text="5WG1-125-1AB22" y="71" size="3"/>
         <text x="10" text="Power Supply 640mA" y="80" size="3"/>
     </description>
 </definition>

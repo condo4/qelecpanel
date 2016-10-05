@@ -1,12 +1,10 @@
 <definition hotspot_y="5" height="210" width="90" orientation="dyyy" link_type="simple" hotspot_x="6" version="0.5" type="element">
     <uuid uuid="{de18812d-33e4-44da-9c42-4ccba84ecfce}"/>
     <names>
-        <name lang="fr">5WG1148-1AB22</name>
+        <name lang="fr">5WG1-148-1AB22 - IP Interface</name>
     </names>
     <informations>Alexandre Dis</informations>
     <description>
-        <text x="5" size="3" text="5WG1125-1AB22" y="70"/>
-        <text x="4" size="3" text="Power Supply 640mA" y="67"/>
         <rect x="0" style="line-style:normal;line-weight:thin;filling:white;color:black" height="200" width="80" y="0" antialias="false"/>
         <rect x="63" style="line-style:normal;line-weight:thin;filling:yellow;color:black" height="15" width="10" y="185" antialias="false"/>
         <rect x="53" style="line-style:normal;line-weight:thin;filling:white;color:black" height="15" width="10" y="185" antialias="false"/>
@@ -22,7 +20,7 @@
         <text x="17" size="9" text="+" y="182"/>
         <text x="8" size="4" text="KNX EIB" y="154"/>
         <text x="5" size="5" text="Siemens" y="55"/>
-        <text x="5" size="3" text="5WG1148-1AB22" y="63"/>
+        <text x="5" size="3" text="5WG1-148-1AB22" y="63"/>
         <text x="5" size="3" text="IP Interface" y="70"/>
         <circle diameter="6" x="24" style="line-style:normal;line-weight:normal;filling:none;color:black" y="119" antialias="false"/>
         <circle diameter="6" x="24" style="line-style:normal;line-weight:normal;filling:none;color:black" y="79" antialias="false"/>
